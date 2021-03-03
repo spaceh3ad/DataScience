@@ -16,5 +16,5 @@ Project which uses data from https://archive.ics.uci.edu/ml/machine-learning-dat
 
 ### Euclidain Distance
 
-Project which uses euclidian distance formula for assigning the closest city to a given spot. The code usues scrapped data with cities (city_name, latitude, longitude) and scrapped data of leisure places (lesiure_category, latitude, longitude)
+Project which uses euclidian distance formula for assigning the closest city to a given spot. The code use scrapped data with cities (city_name, latitude, longitude) and scrapped data of leisure places (lesiure_category, latitude, longitude)
 
