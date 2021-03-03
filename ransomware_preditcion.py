@@ -5,7 +5,7 @@ from sklearn.metrics import mean_absolute_error
 
 import pandas as pd
 
-# df url https://archive.ics.uci.edu/ml/machine-learning-databases/00526/
+# df as data.zip in https://archive.ics.uci.edu/ml/machine-learning-databases/00526/
 df = pd.read_csv('BitcoinHeistData.csv')
 
 global lb
